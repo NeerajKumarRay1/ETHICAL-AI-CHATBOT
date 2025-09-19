@@ -95,4 +95,3 @@ A stunning, modern ethical AI chatbot built with React, TypeScript, and Tailwind
 
 ---
 
-Built with ❤️ using modern web technologies and ethical AI principles.
